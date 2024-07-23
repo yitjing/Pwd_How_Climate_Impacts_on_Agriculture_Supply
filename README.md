@@ -5,7 +5,7 @@ I decided to focus on world agriculture land percentage and choose a suitable co
 
 For this project proposal, my aims are to:
 
-Determine which country should be used for a more in-depth analysis.
-Clean and modify the data so that it can be used in the approaches I want to apply later.
-Select some specific data from different dataframe and store it in a new dataframe for data analysis.
-Conduct exploratory data analysis to uncover trends in the data that allow for additional analysis.
+- Determine which country should be used for a more in-depth analysis.
+- Clean and modify the data so that it can be used in the approaches I want to apply later.
+- Select some specific data from different dataframe and store it in a new dataframe for data analysis.
+- Conduct exploratory data analysis to uncover trends in the data that allow for additional analysis.
